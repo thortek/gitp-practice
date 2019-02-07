@@ -1,3 +1,4 @@
 # gitp-practice
 This is where I practice Git!
-And try out crazy stuff all the time
+
+And try out crazy stuff edit readme
